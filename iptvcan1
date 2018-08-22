@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,CA : Sportsnet One HD
+http://62.210.101.57:8000/live/supra/supra/71361.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://62.210.101.57:8000/live/supra/supra/71363.ts
+#EXTINF:-1,CA: CityTV HD
+http://62.210.101.57:8000/live/supra/supra/71367.ts
+#EXTINF:-1,CA: CTV News HD
+http://62.210.101.57:8000/live/supra/supra/71366.ts
+#EXTINF:-1,CA: Fox news
+http://62.210.101.57:8000/live/supra/supra/71358.ts
+#EXTINF:-1,CA: Global HD
+http://62.210.101.57:8000/live/supra/supra/71365.ts
+#EXTINF:-1,CA: PBS FHD
+http://62.210.101.57:8000/live/supra/supra/71357.ts
+#EXTINF:-1,CA: Sportnet Ontario HD
+http://62.210.101.57:8000/live/supra/supra/71359.ts
+#EXTINF:-1,CA: Sportnet Pacific HD
+http://62.210.101.57:8000/live/supra/supra/71368.ts
+#EXTINF:-1,CA: sportsnet 360 hd(1)
+http://62.210.101.57:8000/live/supra/supra/71360.ts
+#EXTINF:-1,CA: Sportsnet West HD
+http://62.210.101.57:8000/live/supra/supra/71362.ts
+#EXTINF:-1,CA: Sportsnet World HD(1)
+http://62.210.101.57:8000/live/supra/supra/71369.ts
+#EXTINF:-1,CA: Velocity HD
+http://62.210.101.57:8000/live/supra/supra/71364.ts
